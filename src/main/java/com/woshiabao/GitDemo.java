@@ -8,5 +8,7 @@ public class GitDemo {
         System.out.println("this is a test4!!!");
         System.out.println("this is a test4!!!");
         System.out.println("this is a test5!!!");
+        System.out.println("this is a test6!!!");
+        System.out.println("this is a test7!!!");
     }
 }
